@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: math-geometry
+Construction: 
+  - Class: frq (Free Response Questions)
+  - Style: simple
+Few-shot: 5
+Language: eng
+Correct: 123/479 (25.68%)
+Raw Accuracy: 0.2568
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 25.68%

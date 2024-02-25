@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-jurisprudence
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 86/108 (79.63%)
+Raw Accuracy: 0.7963
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 79.63%

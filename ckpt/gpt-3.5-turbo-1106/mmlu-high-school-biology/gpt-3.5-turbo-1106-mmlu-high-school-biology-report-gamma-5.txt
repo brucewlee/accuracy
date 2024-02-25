@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-biology
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 236/310 (76.13%)
+Raw Accuracy: 0.7613
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 76.13%

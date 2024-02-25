@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-machine-learning
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 56/112 (50.00%)
+Raw Accuracy: 0.5000
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 50.00%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: math-prealgebra
+Construction: 
+  - Class: frq (Free Response Questions)
+  - Style: simple
+Few-shot: 5
+Language: eng
+Correct: 321/871 (36.85%)
+Raw Accuracy: 0.3685
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 36.85%

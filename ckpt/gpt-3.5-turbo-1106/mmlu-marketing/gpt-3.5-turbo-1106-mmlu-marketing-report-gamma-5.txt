@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-marketing
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 215/234 (91.88%)
+Raw Accuracy: 0.9188
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 91.88%

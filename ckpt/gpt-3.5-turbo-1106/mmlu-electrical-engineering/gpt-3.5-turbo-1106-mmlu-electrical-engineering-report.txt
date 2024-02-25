@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-electrical-engineering
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 87/145 (60.00%)
+Raw Accuracy: 0.6000
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 60.00%

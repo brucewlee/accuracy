@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-formal-logic
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 51/126 (40.48%)
+Raw Accuracy: 0.4048
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 40.48%

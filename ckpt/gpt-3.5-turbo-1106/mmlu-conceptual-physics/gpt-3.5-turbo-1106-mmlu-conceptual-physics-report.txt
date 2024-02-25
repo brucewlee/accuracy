@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-conceptual-physics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 152/235 (64.68%)
+Raw Accuracy: 0.6468
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 64.68%

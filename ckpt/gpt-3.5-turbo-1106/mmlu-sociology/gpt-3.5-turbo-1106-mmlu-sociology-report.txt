@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-sociology
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 168/201 (83.58%)
+Raw Accuracy: 0.8358
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 83.58%

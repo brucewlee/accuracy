@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-college-biology
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 28/144 (19.44%)
+Raw Accuracy: 0.1944
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 19.44%

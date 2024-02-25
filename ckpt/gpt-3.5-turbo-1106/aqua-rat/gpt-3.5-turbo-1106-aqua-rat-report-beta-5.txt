@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: aqua-rat
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 5
+Few-shot: 5
+Language: eng
+Correct: 51/254 (20.08%)
+Raw Accuracy: 0.2008
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 20.08%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-physics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 8/151 (5.30%)
+Raw Accuracy: 0.0530
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 5.30%

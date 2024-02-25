@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-computer-science
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 70/100 (70.00%)
+Raw Accuracy: 0.7000
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 70.00%

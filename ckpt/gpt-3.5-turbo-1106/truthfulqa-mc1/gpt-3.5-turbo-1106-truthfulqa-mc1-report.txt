@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: truthfulqa-mc1
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: mixed
+Few-shot: 0
+Language: eng
+Correct: 425/817 (52.02%)
+Raw Accuracy: 0.5202
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 52.02%

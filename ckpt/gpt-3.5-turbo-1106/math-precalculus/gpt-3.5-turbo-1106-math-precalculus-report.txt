@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: math-precalculus
+Construction: 
+  - Class: frq (Free Response Questions)
+  - Style: simple
+Few-shot: 5
+Language: eng
+Correct: 169/546 (30.95%)
+Raw Accuracy: 0.3095
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 30.95%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-professional-accounting
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 38/282 (13.48%)
+Raw Accuracy: 0.1348
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 13.48%

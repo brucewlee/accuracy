@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-college-chemistry
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 49/100 (49.00%)
+Raw Accuracy: 0.4900
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 49.00%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-government-and-politics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 176/193 (91.19%)
+Raw Accuracy: 0.9119
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 91.19%

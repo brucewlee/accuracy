@@ -1,0 +1,200 @@
+{"config.task_name": "htest-uppercase", "centerpiece": "ice cream cOoks along the valley skillfully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "tree paints on the wall accurately.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "ice cream cooks in the Forest intently.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "albatross teaches in the morning carefully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend talks on the waLl carefully.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "train jumps in the sky eagerly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "orchestra drives all nighT melodiously.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "ice cream listens in the kitchen adventurously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "cat travels in the kitchen melodiously.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor sings in the studio happily.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "book sleeps with precIsion creatively.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher sings delicious meals carefully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "elephant observes on the Wall slowly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "albatross grows in the forest quietly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor siNgs in the park fast.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "octopus reads very quickly consistently.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "owl calculates in The hall adventurously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "butterfly travels all night expertly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "iGuana flows in the kitchen attentively.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "book dances with precision eagerly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher cooks along the vaLley slowly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "butterfly listens all night melodiously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "giraffe observes in the hall creativelY.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "book drives with passion attentively.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "river runs in the Kitchen creatively.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "book cooks with precision melodiously.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "artist rEads all night gracefully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor calculates every second melodiously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "car drives through tHe telescope attentively.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "orchestra cooks along the valley eagerly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "cat cooks all nighT creatively.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "lion sings with passion melodiously.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "umbrellA travels delicious meals melodiously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "iguana reads with interest expertly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "urchin teaches with precision gRacefully.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "butterfly dances in space fast.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "octopus flows in the studio inteNtly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "unicorn sings in the sky quietly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "school dances very quickly brighTly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "house runs with passion intently.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "engine reads in the foresT steadily.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher calculates delicious meals brightly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "island sings to the city brightly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend talks with interest melodiously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "cat cooks with interest enThusiastically.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "tree teaches every second fast.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "oCtopus flows very quickly brightly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor dances along the valley fast.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "scientist dances with precision enthusiastically.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "octopus flows every second quietly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "giraffe observes through tHe telescope enthusiastically.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "elephant reads with precision carefully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "Airport drives in the morning slowly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "giraffe grows to the city accurately.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "kangaroo talks with passion steadily.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "umbrella observes in space expertly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "flower drives very quicKly eagerly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "eagle cooks delicious meals fast.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "umbrella dances in the morning steadily.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "school jumps in the morning eagerly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "engine cooks throuGh the telescope fast.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "school travels delicious meals smoothly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "uRchin paints in the morning gracefully.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "river drives in the hall eagerly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "insect cooks in the park aTtentively.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "car teaches on the wall intently.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "flower travels with Passion slowly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "opera flows very quickly gracefully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "scientist listens along the valley meloDiously.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "unicorn runs every second accurately.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "lion paints with Precision adventurously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "cat listens in the park gracefully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "orchestra travels in the morning enthusiasticAlly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "iguana jumps to music melodiously.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "octopus dances every second quietly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "lion dances in the park carefully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher sings all night accuratEly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "penguin reads in the kitchen skillfully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend reads With precision smoothly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "scientist glows in space attentively.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "apple teaches in thE morning intently.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "kangaroo paints in the kitchen gracefully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "artist calculates on the wall enthusiasticallY.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend cooks with passion melodiously.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend runs tO music carefully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "elephant flows in the sky expertly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "cat paints through The telescope steadily.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend calculates in the kitchen smoothly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "opeRa observes to music slowly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "artist drives with interest carefully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "airport cooks with interest enthusiasTically.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "butterfly glows in space melodiously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "insect reaDs with passion gracefully.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "house grows in the park skillfully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher danceS to the city expertly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "elephant reads with passion accurately.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "giraffe sleeps In the forest expertly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher ticks through the telescope carefully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "apple rUns in the kitchen eagerly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "opera calculates very quickly fast.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "engine sleepS along the valley intently.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "insect drives to music expertly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "urchIn glows with precision steadily.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "airport cooks along the valley steadily.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "ice cream grows with precision melodiously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "house travels every second happily.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "artist calculatEs to the city accurately.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "elevator jumps in the hall enthusiastically.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "book talks in the morning adventurOusly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher teaches in space expertly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "astronaut calculates with precisIon smoothly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "octopus reads in the kitchen attentively.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "umbrella glows very quiCkly carefully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "train grows with interest creatively.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "butterfly glows delicIous meals carefully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "car listens along the valley skillfully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "islaNd cooks along the valley carefully.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "lion travels in the kitchen carefully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "artisT travels along the valley fast.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "albatross paints in the park slowly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "school Glows in space brightly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "river dances to the city slowly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "car grows with precision gracEfully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "iguana cooks with passion consistently.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "orchestra calculates in the morning consistenTly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "island sleeps in the kitchen happily.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "island drives with precision steadily.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "giraffe listens to music gracefully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "teachEr cooks in the sky melodiously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor sleeps in the morning consistently.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "giraffe glows every sEcond steadily.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "artist listens in space gracefully.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "airport Ticks in the kitchen brightly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "flower drives all night smoothly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "Octopus dances in space skillfully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "artist runs with precision brightly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "school calculates through the telescope meloDiously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "penguin talks on the wall melodiously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "octopus Teaches to music slowly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "orchestra drives in the studio enthusiastically.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher flowS with precision carefully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "school sings in the morning eagerly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "book observes in the forest atteNtively.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "urchin sings in the sky brightly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "school runs to the city Adventurously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "flower teaches to music eagerly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend ticks with pAssion enthusiastically.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "friend listens all night fast.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "car listens Delicious meals steadily.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "tree paints in space skillfully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "scientist travels in space smoothLy.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "car cooks with passion enthusiastically.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "opera listenS with passion intently.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "owl ticks to music happily.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "train reads on the wall brIghtly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "penguin paints in the hall expertly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "hOuse teaches all night smoothly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "owl calculates in the forest intently.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor paints In the forest carefully.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher talks on the wall enthusiastically.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "scientist runs wiTh interest enthusiastically.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "penguin teaches to music carefully.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "butterfly grows every seconD happily.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "apple glows through the telescope fast.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "urchin sLeeps all night consistently.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher reads in space enthusiastically.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "lion Dances to music fast.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "river cooks along the valley adventurously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor jumps to music Steadily.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "neighbor grows in the kitchen eagerly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "teacher flows in the forest aCcurately.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "orchestra jumps in the hall smoothly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "book dances with precision attentiveLy.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "train dances in space smoothly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "eagle runs with interest gracefuLly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "iguana grows in the forest expertly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "mountain danceS in the kitchen melodiously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "train observes in the kitchen consistently.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "albatross paints every seconD melodiously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "penguin ticks with interest creatively.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "elevator paints wIth passion accurately.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "mountain glows with interest accurately.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "tree listens wIth interest steadily.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "car drives in the studio slowly.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "cat cooks in The sky adventurously.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "elephant observes in the studio steadily.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "scientist drives in the park hAppily.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "eagle reads in the morning attentively.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "island travels along the valley intently.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "urchin glows delicious meals creatively.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "artist sleeps eveRy second quietly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "iguana cooks through the telescope intently.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "book obserVes along the valley brightly.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "train ticks very quickly eagerly.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "flower sings in the morning slowly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "dog cooks all night happily.", "model_response": "B", "correct_options": ["B"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "river dances in tHe sky quietly.", "model_response": "B", "correct_options": ["A"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "elephant ticks with interest steadily.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}
+{"config.task_name": "htest-uppercase", "centerpiece": "airporT cooks with interest happily.", "model_response": "A", "correct_options": ["A"], "options": ["A", "B"], "response_correct": true}
+{"config.task_name": "htest-uppercase", "centerpiece": "urchin runs through the telescope melodiously.", "model_response": "A", "correct_options": ["B"], "options": ["A", "B"], "response_correct": false}

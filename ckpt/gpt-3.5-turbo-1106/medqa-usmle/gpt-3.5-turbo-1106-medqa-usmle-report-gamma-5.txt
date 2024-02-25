@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: medqa-usmle
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 5
+Few-shot: 5
+Language: eng
+Correct: 672/1273 (52.79%)
+Raw Accuracy: 0.5279
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 52.79%

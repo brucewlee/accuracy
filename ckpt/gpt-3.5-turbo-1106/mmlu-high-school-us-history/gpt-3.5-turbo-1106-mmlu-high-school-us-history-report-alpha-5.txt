@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-us-history
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 164/204 (80.39%)
+Raw Accuracy: 0.8039
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 80.39%

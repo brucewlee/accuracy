@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: htest-repeated-word
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 50
+Language: eng
+Correct: 96/200 (48.00%)
+Raw Accuracy: 0.4800
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 48.00%

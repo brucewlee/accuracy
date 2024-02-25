@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-psychology
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 471/545 (86.42%)
+Raw Accuracy: 0.8642
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 86.42%

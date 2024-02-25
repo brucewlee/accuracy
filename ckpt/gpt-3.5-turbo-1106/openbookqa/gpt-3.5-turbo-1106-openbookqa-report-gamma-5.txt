@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: openbookqa
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 407/500 (81.40%)
+Raw Accuracy: 0.8140
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 81.40%

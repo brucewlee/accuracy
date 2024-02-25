@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-management
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 85/103 (82.52%)
+Raw Accuracy: 0.8252
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 82.52%

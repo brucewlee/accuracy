@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-international-law
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 50/121 (41.32%)
+Raw Accuracy: 0.4132
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 41.32%

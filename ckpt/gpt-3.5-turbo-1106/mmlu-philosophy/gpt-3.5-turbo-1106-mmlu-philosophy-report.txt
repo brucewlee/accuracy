@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-philosophy
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 227/311 (72.99%)
+Raw Accuracy: 0.7299
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 72.99%

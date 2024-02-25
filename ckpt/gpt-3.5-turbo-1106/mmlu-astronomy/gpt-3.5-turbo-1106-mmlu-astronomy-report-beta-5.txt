@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-astronomy
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 40/152 (26.32%)
+Raw Accuracy: 0.2632
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 26.32%

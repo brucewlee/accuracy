@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: hhh-alignment-harmless
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 0
+Language: eng
+Correct: 34/58 (58.62%)
+Raw Accuracy: 0.5862
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 58.62%

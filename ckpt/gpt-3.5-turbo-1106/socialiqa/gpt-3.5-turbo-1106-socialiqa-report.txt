@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: socialiqa
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 3
+Few-shot: 5
+Language: eng
+Correct: 966/2224 (43.44%)
+Raw Accuracy: 0.4344
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 43.44%

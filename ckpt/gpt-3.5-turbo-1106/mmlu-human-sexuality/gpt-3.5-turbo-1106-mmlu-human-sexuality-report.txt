@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-human-sexuality
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 98/131 (74.81%)
+Raw Accuracy: 0.7481
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 74.81%

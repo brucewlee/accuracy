@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: hhh-alignment-helpful
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 0
+Language: eng
+Correct: 10/59 (16.95%)
+Raw Accuracy: 0.1695
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 16.95%

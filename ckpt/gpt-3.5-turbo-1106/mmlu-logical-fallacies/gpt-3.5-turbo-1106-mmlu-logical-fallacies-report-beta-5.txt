@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-logical-fallacies
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 65/163 (39.88%)
+Raw Accuracy: 0.3988
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 39.88%

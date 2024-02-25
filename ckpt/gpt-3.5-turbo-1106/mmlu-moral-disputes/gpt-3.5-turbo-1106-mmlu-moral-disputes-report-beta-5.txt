@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-moral-disputes
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 17/346 (4.91%)
+Raw Accuracy: 0.0491
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 4.91%

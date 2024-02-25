@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-public-relations
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 78/110 (70.91%)
+Raw Accuracy: 0.7091
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 70.91%

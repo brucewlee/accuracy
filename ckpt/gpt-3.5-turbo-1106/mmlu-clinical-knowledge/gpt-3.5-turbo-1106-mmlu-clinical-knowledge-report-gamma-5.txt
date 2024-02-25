@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-clinical-knowledge
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 201/265 (75.85%)
+Raw Accuracy: 0.7585
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 75.85%

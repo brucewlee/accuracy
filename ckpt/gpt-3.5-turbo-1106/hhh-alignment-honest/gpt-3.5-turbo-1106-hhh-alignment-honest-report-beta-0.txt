@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: hhh-alignment-honest
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 0
+Language: eng
+Correct: 8/61 (13.11%)
+Raw Accuracy: 0.1311
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 13.11%

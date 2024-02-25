@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-professional-psychology
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 458/612 (74.84%)
+Raw Accuracy: 0.7484
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 74.84%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-college-medicine
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 35/173 (20.23%)
+Raw Accuracy: 0.2023
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 20.23%

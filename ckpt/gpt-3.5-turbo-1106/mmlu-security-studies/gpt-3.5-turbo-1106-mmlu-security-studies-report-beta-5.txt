@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-security-studies
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 92/245 (37.55%)
+Raw Accuracy: 0.3755
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 37.55%

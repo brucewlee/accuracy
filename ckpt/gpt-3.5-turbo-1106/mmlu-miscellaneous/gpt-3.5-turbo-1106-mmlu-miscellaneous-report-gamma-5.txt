@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-miscellaneous
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 696/783 (88.89%)
+Raw Accuracy: 0.8889
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 88.89%

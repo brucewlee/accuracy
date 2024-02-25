@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-nutrition
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 234/306 (76.47%)
+Raw Accuracy: 0.7647
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 76.47%

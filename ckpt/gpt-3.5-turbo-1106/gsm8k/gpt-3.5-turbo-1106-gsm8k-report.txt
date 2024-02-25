@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: gsm8k
+Construction: 
+  - Class: frq (Free Response Questions)
+  - Style: simple
+Few-shot: 5
+Language: eng
+Correct: 315/1319 (23.88%)
+Raw Accuracy: 0.2388
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 23.88%

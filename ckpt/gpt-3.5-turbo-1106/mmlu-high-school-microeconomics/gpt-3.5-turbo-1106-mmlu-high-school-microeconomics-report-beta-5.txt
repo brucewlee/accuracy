@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-microeconomics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 38/238 (15.97%)
+Raw Accuracy: 0.1597
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 15.97%

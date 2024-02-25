@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-abstract-algebra
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 33/100 (33.00%)
+Raw Accuracy: 0.3300
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 33.00%

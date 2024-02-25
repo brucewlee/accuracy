@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: htest-rhyme
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 50
+Language: eng
+Correct: 103/200 (51.50%)
+Raw Accuracy: 0.5150
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 51.50%

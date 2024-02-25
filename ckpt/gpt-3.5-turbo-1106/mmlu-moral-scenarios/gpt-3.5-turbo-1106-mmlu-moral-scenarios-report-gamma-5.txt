@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-moral-scenarios
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 364/895 (40.67%)
+Raw Accuracy: 0.4067
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 40.67%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-global-facts
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 43/100 (43.00%)
+Raw Accuracy: 0.4300
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 43.00%

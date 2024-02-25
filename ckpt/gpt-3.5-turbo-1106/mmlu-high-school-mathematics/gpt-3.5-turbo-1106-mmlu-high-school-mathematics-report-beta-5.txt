@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-mathematics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 69/270 (25.56%)
+Raw Accuracy: 0.2556
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 25.56%

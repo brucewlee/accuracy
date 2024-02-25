@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-virology
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 90/166 (54.22%)
+Raw Accuracy: 0.5422
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 54.22%

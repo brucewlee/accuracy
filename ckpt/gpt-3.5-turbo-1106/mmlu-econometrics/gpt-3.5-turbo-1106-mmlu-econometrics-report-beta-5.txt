@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-econometrics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 13/114 (11.40%)
+Raw Accuracy: 0.1140
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 11.40%

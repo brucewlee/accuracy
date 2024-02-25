@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-us-foreign-policy
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 87/100 (87.00%)
+Raw Accuracy: 0.8700
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 87.00%

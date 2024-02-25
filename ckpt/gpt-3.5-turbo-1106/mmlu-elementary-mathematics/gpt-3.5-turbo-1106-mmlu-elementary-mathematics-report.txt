@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-elementary-mathematics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 181/378 (47.88%)
+Raw Accuracy: 0.4788
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 47.88%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: hhh-alignment-other
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 0
+Language: eng
+Correct: 42/43 (97.67%)
+Raw Accuracy: 0.9767
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 97.67%

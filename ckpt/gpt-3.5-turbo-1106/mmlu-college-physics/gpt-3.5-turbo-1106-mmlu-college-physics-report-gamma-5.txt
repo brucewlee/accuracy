@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-college-physics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 46/102 (45.10%)
+Raw Accuracy: 0.4510
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 45.10%

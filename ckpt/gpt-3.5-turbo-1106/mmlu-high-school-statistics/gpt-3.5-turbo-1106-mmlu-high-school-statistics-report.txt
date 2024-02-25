@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-statistics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 111/216 (51.39%)
+Raw Accuracy: 0.5139
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 51.39%

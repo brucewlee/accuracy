@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: hellaswag
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 10
+Language: eng
+Correct: 4019/10042 (40.02%)
+Raw Accuracy: 0.4002
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 40.02%

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: commonsenseqa
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 5
+Few-shot: 5
+Language: eng
+Correct: 429/1221 (35.14%)
+Raw Accuracy: 0.3514
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 35.14%

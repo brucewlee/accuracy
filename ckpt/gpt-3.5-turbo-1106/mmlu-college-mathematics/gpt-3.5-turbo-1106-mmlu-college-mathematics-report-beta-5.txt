@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-college-mathematics
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 9/100 (9.00%)
+Raw Accuracy: 0.0900
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 9.00%

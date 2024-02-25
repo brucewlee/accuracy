@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-high-school-geography
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 161/198 (81.31%)
+Raw Accuracy: 0.8131
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 81.31%

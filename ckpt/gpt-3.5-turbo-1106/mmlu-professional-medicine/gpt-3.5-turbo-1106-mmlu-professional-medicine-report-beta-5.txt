@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-professional-medicine
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 77/272 (28.31%)
+Raw Accuracy: 0.2831
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 28.31%

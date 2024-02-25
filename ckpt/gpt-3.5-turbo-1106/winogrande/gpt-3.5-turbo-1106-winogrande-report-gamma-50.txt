@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: winogrande
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 50
+Language: eng
+Correct: 764/1267 (60.30%)
+Raw Accuracy: 0.6030
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 60.30%

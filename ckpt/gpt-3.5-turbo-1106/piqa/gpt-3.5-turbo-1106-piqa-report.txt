@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: piqa
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 2
+Few-shot: 50
+Language: eng
+Correct: 1389/1838 (75.57%)
+Raw Accuracy: 0.7557
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 75.57%

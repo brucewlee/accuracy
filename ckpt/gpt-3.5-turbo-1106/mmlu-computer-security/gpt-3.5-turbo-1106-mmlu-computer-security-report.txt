@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: mmlu-computer-security
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: 4
+Few-shot: 5
+Language: eng
+Correct: 74/100 (74.00%)
+Raw Accuracy: 0.7400
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 74.00%

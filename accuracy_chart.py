@@ -22,38 +22,43 @@ def process_task_directories(base_directory, model_name):
     for task_dir in os.listdir(model_base_path):
         task_path = os.path.join(model_base_path, task_dir)
         if os.path.isdir(task_path):
-            task_accuracy_data = {}
+            task_accuracy_data = {"few_shot": set()}  # Initialize to capture unique few_shot values
             for file in glob.glob(os.path.join(task_path, f"{model_name}-{task_dir}-records-*-*.jsonl")):
                 strategy = file.split('-')[-2]
                 with open(file, 'r') as f:
                     records = [json.loads(line.strip()) for line in f]
-                task_accuracy_data[strategy] = calculate_accuracy(records)
+                    # Update few_shot values
+                    for record in records:
+                        if "config.few_shot" in record:
+                            task_accuracy_data["few_shot"].add(record["config.few_shot"])
+                    # Calculate and store accuracy
+                    task_accuracy_data[strategy] = calculate_accuracy(records)
+            # Convert few_shot set to list for consistent JSON serialization
+            task_accuracy_data["few_shot"] = list(task_accuracy_data["few_shot"])
             accuracy_data[task_dir] = task_accuracy_data
 
     return accuracy_data
 
 def save_to_csv(accuracy_data, filename):
     """Dynamically save accuracy data to a CSV file based on available strategies."""
-    # Dynamically determine fieldnames based on encountered strategies
-    all_strategies = set(strategy for accuracies in accuracy_data.values() for strategy in accuracies)
-    fieldnames = ['Task'] + [f"{strategy} Accuracy (%)" for strategy in sorted(all_strategies)]
+    all_strategies = set(strategy for accuracies in accuracy_data.values() for strategy in accuracies if strategy != "few_shot")
+    fieldnames = ['Task', 'Few Shot Values'] + [f"{strategy} Accuracy (%)" for strategy in sorted(all_strategies)]
     
     with open(filename, 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        for task, accuracies in accuracy_data.items():
-            row = {'Task': task}
-            # Update row with available accuracies for each strategy
-            for strategy, acc in accuracies.items():
-                row[f"{strategy} Accuracy (%)"] = acc
+        for task, data in accuracy_data.items():
+            row = {'Task': task, 'Few Shot Values': ', '.join(map(str, data.get("few_shot", [])))}
+            for strategy, acc in data.items():
+                if strategy != "few_shot":
+                    row[f"{strategy} Accuracy (%)"] = acc
             writer.writerow(row)
 
 def save_to_jsonl(accuracy_data, filename):
     """Save accuracy data to a JSONL file."""
     with open(filename, 'w') as jsonlfile:
-        for task, accuracies in accuracy_data.items():
-            data = {'Task': task}
-            data.update(accuracies)
+        for task, data in accuracy_data.items():
+            data["Task"] = task
             jsonlfile.write(json.dumps(data) + '\n')
 
 # Example usage

@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: arc-challenge
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: mixed
+Few-shot: 99
+Language: eng
+Correct: 209/1172 (17.83%)
+Raw Accuracy: 0.1783
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 17.83%

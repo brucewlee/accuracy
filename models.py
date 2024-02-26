@@ -1,7 +1,8 @@
 from openai import OpenAI
 import os, sys
 import numpy as np
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
+
 client = OpenAI()
 
 class ChatGPT:

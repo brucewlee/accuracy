@@ -1,0 +1,17 @@
+Accuracy Report by Task
+
+------------------------------------------------------------
+
+Task: arc-easy
+Construction: 
+  - Class: mcq (Multiple Choice Questions)
+  - Choices: mixed
+Few-shot: 99
+Language: eng
+Correct: 2141/2376 (90.11%)
+Raw Accuracy: 0.9011
+------------------------------------------------------------
+
+Unique Tasks Found: 1
+
+Average Accuracy: 90.11%

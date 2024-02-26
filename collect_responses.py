@@ -45,13 +45,13 @@ def run(models_dict, task_dict):
                 model = models_dict[model_to_run], 
                 data = task_object
             )
-            #experiment.run()
+            experiment.run()
 
             # save checkpoint with retrieved responses
-            save_path = f'{task_dir}/{model_to_run}-{task_name}-ckpt-1.pkl'
-            #task_object.save_to_file(
-            #    save_path = save_path
-            #)
+            save_path = f'{task_dir}/{model_to_run}-{task_name}-ckpt-1-{task_object[0].config["few_shot"]}.pkl'
+            task_object.save_to_file(
+                save_path = save_path
+            )
             task_object = task_object.load_from_file(
                 load_path = save_path
             )
@@ -59,43 +59,43 @@ def run(models_dict, task_dict):
             # running this evaluation updates each instance's response_correct property in data data object with evaluations
             if task_object.config['construction']['class'] == 'mcq':
                 """MCQ: engine alpha"""
-                #evaluation = MCQEvaluator(
-                #    data = task_object,
-                #    engine = 'alpha',
-                #    )
-                #evaluation.run()
+                evaluation = MCQEvaluator(
+                    data = task_object,
+                    engine = 'alpha',
+                    )
+                evaluation.run()
 
                 # save checkpoint with retrieved responses + evaluation results
-                #save_path = f'{task_dir}/{model_to_run}-{task_name}-ckpt-2-alpha-#{task_object[0].config["few_shot"]}.pkl'
-                #task_object.save_to_file(
-                #    save_path = save_path
-                #)
-                #task_object = task_object.load_from_file(
-                #    load_path = save_path
-                #)
+                save_path = f'{task_dir}/{model_to_run}-{task_name}-ckpt-2-alpha-{task_object[0].config["few_shot"]}.pkl'
+                task_object.save_to_file(
+                    save_path = save_path
+                )
+                task_object = task_object.load_from_file(
+                    load_path = save_path
+                )
 
                 # save human-readable results for research dissemination and analysis
-                #task_object.save_records(
-                #    f'{task_dir}/{model_to_run}-{task_name}-records-alpha-{task_object[0].config["few_shot"]}.jsonl', 
-                #    keys=[
-                #        "config.task_name", 
-                #        "config.construction.class", 
-                #        "config.few_shot", 
-                #        "config.task_name", 
-                #        "centerpiece", 
-                #        "user_prompt", 
-                #        "options", 
-                #        "correct_options", 
-                #        "model_response", 
-                #        "model_response_logprobs",
-                #        "response_correct",
-                #        "response_evaluator_engine"
-                #    ]
-                #)
-                #generate_report(
-                #    task_object, 
-                #    save_path = f'{task_dir}/{model_to_run}-{task_name}-report-alpha-{task_object[0].config["few_shot"]}.txt'
-                #)
+                task_object.save_records(
+                    f'{task_dir}/{model_to_run}-{task_name}-records-alpha-{task_object[0].config["few_shot"]}.jsonl', 
+                    keys=[
+                        "config.task_name", 
+                        "config.construction.class", 
+                        "config.few_shot", 
+                        "config.task_name", 
+                        "centerpiece", 
+                        "user_prompt", 
+                        "options", 
+                        "correct_options", 
+                        "model_response", 
+                        "model_response_logprobs",
+                        "response_correct",
+                        "response_evaluator_engine"
+                    ]
+                )
+                generate_report(
+                    task_object, 
+                    save_path = f'{task_dir}/{model_to_run}-{task_name}-report-alpha-{task_object[0].config["few_shot"]}.txt'
+                )
 
 
 
@@ -181,42 +181,43 @@ def run(models_dict, task_dict):
 
             elif task_object.config['construction']['class'] == 'frq':
                 """FRQ: engine alpha"""
-                #evaluation = FRQEvaluator(
-                #    data = task_object,
-                #    engine = 'alpha',
-                #    )
-                #evaluation.run()
+                evaluation = FRQEvaluator(
+                    data = task_object,
+                    engine = 'alpha',
+                    )
+                evaluation.run()
+
                 # save checkpoint with retrieved responses + evaluation results
-                #save_path = f'{task_dir}/{model_to_run}-{task_name}-ckpt-2-alpha.pkl'
-                #task_object.save_to_file(
-                #    save_path = save_path
-                #)
-                #task_object = task_object.load_from_file(
-                #    load_path = save_path
-                #)
+                save_path = f'{task_dir}/{model_to_run}-{task_name}-ckpt-2-alpha.pkl'
+                task_object.save_to_file(
+                    save_path = save_path
+                )
+                task_object = task_object.load_from_file(
+                    load_path = save_path
+                )
 
                 # save human-readable results for research dissemination and analysis
-                #task_object.save_records(
-                #    f'{task_dir}/{model_to_run}-{task_name}-records-alpha-{task_object[0].config["few_shot"]}.jsonl', 
-                #    keys=[
-                #        "config.task_name", 
-                #        "config.construction.class", 
-                #        "config.few_shot", 
-                #        "config.task_name", 
-                #        "centerpiece", 
-                #        "user_prompt", 
-                #        "options", 
-                #        "correct_options", 
-                #        "model_response", 
-                #        "model_response_logprobs",
-                #        "response_correct",
-                #        "response_evaluator_engine"
-                #    ]
-                #)
-                #generate_report(
-                #    task_object, 
-                #    save_path = f'{task_dir}/{model_to_run}-{task_name}-report-alpha-{task_object[0].config["few_shot"]}.txt'
-                #)
+                task_object.save_records(
+                    f'{task_dir}/{model_to_run}-{task_name}-records-alpha-{task_object[0].config["few_shot"]}.jsonl', 
+                    keys=[
+                        "config.task_name", 
+                        "config.construction.class", 
+                        "config.few_shot", 
+                        "config.task_name", 
+                        "centerpiece", 
+                        "user_prompt", 
+                        "options", 
+                        "correct_options", 
+                        "model_response", 
+                        "model_response_logprobs",
+                        "response_correct",
+                        "response_evaluator_engine"
+                    ]
+                )
+                generate_report(
+                    task_object, 
+                    save_path = f'{task_dir}/{model_to_run}-{task_name}-report-alpha-{task_object[0].config["few_shot"]}.txt'
+                )
 
 
 
@@ -271,12 +272,14 @@ if __name__ == "__main__":
         'mmlu-logical-fallacies', 'mmlu-high-school-psychology'
     ]
     for task_name in task_list:
-        task_object = Task.load_from_db(
-            task_name = task_name, 
-            db_directory = 'nutcracker-db/db'
-            )
-        #task_object.sample(5, seed = 1, in_place = True)
-        task_dict[f'{task_name}'] = task_object
+        if task_name in ['arc-challenge','arc-easy']:
+            task_object = Task.load_from_db(
+                task_name = task_name, 
+                db_directory = 'nutcracker-db/db',
+                override_config = {'few_shot': 99}
+                )      
+            #task_object.sample(5, seed = 1, in_place = True)
+            task_dict[f'{task_name}'] = task_object
     # 90 tasks
     print(f'Number of tasks: {len(task_dict)}')
     # 45566 instances
